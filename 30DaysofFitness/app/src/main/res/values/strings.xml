@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">30 Days of Fitness</string>
+    <!-- Week 1 -->
+    <string name="day1_workout">Full-Body Workout</string>
+    <string name="day1_description">Squats: 3 sets of 12 reps\nPush-Ups: 3 sets of 10 reps\nPlanks: 3 sets of 20-30 seconds</string>
+
+    <string name="day2_workout">Cardio Intervals</string>
+    <string name="day2_description">20 minutes of high-intensity interval training (HIIT) on a treadmill, bike, or elliptical.</string>
+
+    <string name="day3_workout">Upper Body Focus</string>
+    <string name="day3_description">Bench Press or Dumbbell Press: 3 sets of 10 reps\nBent-Over Rows: 3 sets of 10 reps\nBicep Curls: 3 sets of 12 reps</string>
+
+    <string name="day4_workout">Active Recovery</string>
+    <string name="day4_description">Go for a 30-minute walk or engage in light yoga to promote recovery.</string>
+
+    <string name="day5_workout">Lower Body Focus</string>
+    <string name="day5_description">Deadlifts: 3 sets of 8 reps\nLunges: 3 sets of 12 reps per leg\nLeg Raises: 3 sets of 12 reps</string>
+
+    <string name="day6_workout">Cardio Endurance</string>
+    <string name="day6_description">30 minutes of steady-state cardio (running, cycling, or swimming).</string>
+
+    <string name="day7_workout">Rest and Recovery</string>
+    <string name="day7_description">Give your body a full day of rest to recharge.</string>
+
+    <!-- Week 2: Same as Week 1 but with increased intensity -->
+    <string name="day8_workout" translatable="false">@string/day1_workout</string>
+    <string name="day8_description">Repeat Day 1\'s routine with increased weight or intensity.</string>
+
+    <string name="day9_workout" translatable="false">@string/day2_workout</string>
+    <string name="day9_description">Repeat Day 2\'s routine with increased intensity.</string>
+
+    <string name="day10_workout" translatable="false">@string/day3_workout</string>
+    <string name="day10_description">Repeat Day 3\'s routine with increased weight or intensity.</string>
+
+    <string name="day11_workout" translatable="false">@string/day4_workout</string>
+    <string name="day11_description">Repeat Day 4\'s routine with increased intensity.</string>
+
+    <string name="day12_workout" translatable="false">@string/day5_workout</string>
+    <string name="day12_description">Repeat Day 5\'s routine with increased weight or intensity.</string>
+
+    <string name="day13_workout" translatable="false">@string/day6_workout</string>
+    <string name="day13_description">Repeat Day 6\'s routine with increased intensity.</string>
+
+    <string name="day14_workout" translatable="false">@string/day7_workout</string>
+    <string name="day14_description">Repeat Day 7\'s routine with increased intensity.</string>
+
+    <!-- Week 3 -->
+    <string name="day15_workout">Full-Body Circuit</string>
+    <string name="day15_description">Perform each exercise for 1 minute with a 30-second rest between exercises: Burpees, Mountain Climbers, Kettlebell Swings (or dumbbell swings) and Planks.</string>
+
+    <string name="day16_workout">Advanced Upper Body</string>
+    <string name="day16_description">Pull-Ups: 3 sets of 8 reps\nBox Jumps: 3 sets of 10 reps\nMedicine Ball Slams: 3 sets of 12 reps</string>
+
+    <string name="day17_workout" translatable="false">@string/day5_workout</string>
+    <string name="day17_description">Repeat Day 5\'s routine with more advanced exercises.</string>
+
+    <string name="day18_workout">Active Recovery</string>
+    <string name="day18_description">Go for a 30-minute walk or engage in light yoga to promote recovery.</string>
+
+    <string name="day19_workout">Cardio Challenge</string>
+    <string name="day19_description">40 minutes of mixed cardio (running, cycling, and swimming).</string>
+
+    <string name="day20_workout">Lower Body Strength</string>
+    <string name="day20_description">Bulgarian Split Squats: 3 sets of 10 reps per leg\nRomanian Deadlifts: 3 sets of 10 reps\nCalf Raises: 3 sets of 15 reps</string>
+
+    <string name="day21_workout" translatable="false">@string/day7_workout</string>
+    <string name="day21_description">Give your body a full day of rest to recharge.</string>
+
+    <!-- Week 4 -->
+    <string name="day22_workout">Push Your Limits</string>
+    <string name="day22_description">Increase the weight on your lifts or try a new advanced yoga pose.</string>
+
+    <string name="day23_workout" translatable="false">@string/day6_workout</string>
+    <string name="day23_description">Increase the duration to 40 minutes of steady-state cardio.</string>
+
+    <string name="day24_workout" translatable="false">@string/day3_workout</string>
+    <string name="day24_description">Add more weight or reps to the upper body workout.</string>
+
+    <string name="day25_workout" translatable="false">@string/day1_workout</string>
+    <string name="day25_description">Push yourself to complete the full-body workout with higher intensity.</string>
+
+    <string name="day26_workout">Cardio and Core</string>
+    <string name="day26_description">25 minutes of mixed cardio followed by core exercises: Russian Twists, Bicycle Crunches, and Leg Raises.</string>
+
+    <string name="day27_workout" translatable="false">@string/day5_workout</string>
+    <string name="day27_description">Increase the weight or reps for the lower body workout.</string>
+
+    <string name="day28_workout" translatable="false">@string/day4_workout</string>
+    <string name="day28_description">Engage in an active recovery session with light activities.</string>
+
+    <string name="day29_workout">Full-Body HIIT</string>
+    <string name="day29_description">Perform a high-intensity interval workout for 20 minutes. Mix bodyweight exercises, like burpees and jumping jacks, with short rest periods.</string>
+
+    <string name="day30_workout">Celebration Workout</string>
+    <string name="day30_description">Design your own workout, incorporating your favorite exercises from the past 30 days. Push yourself to the limit and celebrate your accomplishments!</string>
+    <string name="day">Day %s</string>
+    <string name="_30_days_of_fitness_plan">30 Days of Fitness Plan</string>
+</resources>
