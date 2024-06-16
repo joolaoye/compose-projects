@@ -1,3 +1,6 @@
 [submodule "Unscramble"]
 	path = Unscramble
 	url = https://github.com/joolaoye/Unscramble.git
+[submodule "Dessert-Clicker"]
+	path = Dessert-Clicker
+	url = https://github.com/joolaoye/Dessert-Clicker.git
