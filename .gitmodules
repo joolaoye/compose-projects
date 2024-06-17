@@ -4,3 +4,6 @@
 [submodule "Dessert-Clicker"]
 	path = Dessert-Clicker
 	url = https://github.com/joolaoye/Dessert-Clicker.git
+[submodule "Cupcake-App"]
+	path = Cupcake-App
+	url = https://github.com/joolaoye/Cupcake-App.git
