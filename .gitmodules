@@ -7,3 +7,6 @@
 [submodule "Cupcake-App"]
 	path = Cupcake-App
 	url = https://github.com/joolaoye/Cupcake-App.git
+[submodule "Lunch-Tray"]
+	path = Lunch-Tray
+	url = https://github.com/joolaoye/Lunch-Tray.git
